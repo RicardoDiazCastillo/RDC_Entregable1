@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Go go dance
+=======
+La mama de la mama
+>>>>>>> 976e9ad (Cambio texto 1 Rama)
